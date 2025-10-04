@@ -48,7 +48,7 @@ Possibilidade de gerar paletas completas com várias cores lado a lado.
 🌐 Deploy
 
 O projeto foi publicado via GitHub Pages e pode ser acessado no link:
-
+https://otavins.github.io/Paleta-de-Cores-web_2/
 
 📖 Conclusão
 
