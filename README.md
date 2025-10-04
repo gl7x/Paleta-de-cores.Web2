@@ -1,6 +1,6 @@
 # Paleta-de-cores.Web2
 
-🎨 # Paleta de Cores
+🎨 *Paleta de Cores*
 
 👥 Integrantes da Dupla
 
